@@ -1,4 +1,4 @@
-import Template from "../Components/Template";
+import Template from "../Components/core/Auth/Template";
 import signupImg from "../assets/old2.jpeg";
 
 function Signup({ setIsLoggedIn }) {

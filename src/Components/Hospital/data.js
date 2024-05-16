@@ -5,19 +5,19 @@ export const filterData = [
     },
     {
       id: "2",
-      title: "Heart",
+      title: "Cardiologist",
     },
     {
       id: "3",
-      title: "Kidney",
+      title: "opthalmologist",
     },
     {
       id: "4",
-      title: "Liver",
+      title: "Neurologist",
     },
     {
       id: "5",
-      title: "Sugar",
+      title: "Endocrinologist",
     },
   ];
   

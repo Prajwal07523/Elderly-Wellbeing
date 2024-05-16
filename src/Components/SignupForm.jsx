@@ -160,7 +160,7 @@ const SignupForm = ({setIsLoggedIn}) => {
 
           <label className="w-full relative">
             <p className="text-richblack-5 mb-1 text-[0.875rem] leading-[1.375rem]">
-              Create Password<sup className="text-pink-200">*</sup>
+              Confirm Password<sup className="text-pink-200">*</sup>
             </p>
             <input
               className="text-gray-800 rounded-[4px] w-full px-[12px] py-[8px]"
